@@ -1,4 +1,4 @@
-# app
+# Daily Wins
 
 A new Flutter project.
 
